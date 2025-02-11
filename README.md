@@ -1,1 +1,1 @@
-# StudyHire ich weis nichtz was hier reinschrieben soll
+# StudyHire: Das ist nun eine Anfangsversion für das projekt Studyhire
